@@ -1,5 +1,5 @@
 # 🔧 Current Projects
-- [GentooInstall](https://github.com/PinkTurkey0/GentooInstall) (A CLI installer for Gentoo Linux)
+- [GentooInstall](https://github.com/PinkTurkey0/GentooInstall) (A TUI installer for Gentoo Linux)
 # 📄 Programming Languages
 <a href="https://nodejs.org" >
         <img src="https://raw.githubusercontent.com/PinkTurkey0/PinkTurkey0/main/Images/Javascript.svg" />
